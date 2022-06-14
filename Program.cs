@@ -200,8 +200,7 @@ namespace cuttingStockProblem
 
             var results = SolveModel(demands, totalLength);
             
-            // Console.WriteLine($"Status: {STATUS_NAME[results[0]]}");
-            // Console.WriteLine($"Status: {results[0]}");
+            Console.WriteLine($"Status: {results[0]}");
             Console.WriteLine();
             Console.WriteLine($"Number of Rolls Used: {results[1]}");
             Console.WriteLine();
@@ -217,14 +216,6 @@ namespace cuttingStockProblem
                 Console.WriteLine();
             }
             Console.WriteLine();
-
-            // Console.WriteLine("Un used widths");
-            // foreach (var num in results[3])
-            // {
-            // // Console.Write($"{num.GetType()}");
-            //     Console.Write($" {num} ");
-            // } 
-            // Console.WriteLine();
 
         }
     }
