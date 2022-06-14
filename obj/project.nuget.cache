@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "z5OHRxy3XMws+cZ9YXyXw/3EHZ07yMYJmYQRBxnLw1HYfBWZABhl5sBu8icdfKWGaqOvnFc9k0DTzB3ZinrEdg==",
+  "success": true,
+  "projectFilePath": "/home/hp/cuttingStockProblem/cuttingStockProblem.csproj",
+  "expectedPackageFiles": [
+    "/home/hp/.nuget/packages/google.ortools/9.3.10497/google.ortools.9.3.10497.nupkg.sha512",
+    "/home/hp/.nuget/packages/google.ortools.runtime.linux-x64/9.3.10497/google.ortools.runtime.linux-x64.9.3.10497.nupkg.sha512",
+    "/home/hp/.nuget/packages/google.ortools.runtime.osx-x64/9.3.10497/google.ortools.runtime.osx-x64.9.3.10497.nupkg.sha512",
+    "/home/hp/.nuget/packages/google.ortools.runtime.win-x64/9.3.10497/google.ortools.runtime.win-x64.9.3.10497.nupkg.sha512",
+    "/home/hp/.nuget/packages/google.protobuf/3.19.4/google.protobuf.3.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
