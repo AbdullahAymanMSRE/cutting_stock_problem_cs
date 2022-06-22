@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hp/cuttingStockProblem/cuttingStockProblem.csproj": {}
+    "/mnt/01D7A6D24541C480/programming/c#/cuttingStockProblem/cuttingStockProblem.csproj": {}
   },
   "projects": {
-    "/home/hp/cuttingStockProblem/cuttingStockProblem.csproj": {
+    "/mnt/01D7A6D24541C480/programming/c#/cuttingStockProblem/cuttingStockProblem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hp/cuttingStockProblem/cuttingStockProblem.csproj",
+        "projectUniqueName": "/mnt/01D7A6D24541C480/programming/c#/cuttingStockProblem/cuttingStockProblem.csproj",
         "projectName": "cuttingStockProblem",
-        "projectPath": "/home/hp/cuttingStockProblem/cuttingStockProblem.csproj",
+        "projectPath": "/mnt/01D7A6D24541C480/programming/c#/cuttingStockProblem/cuttingStockProblem.csproj",
         "packagesPath": "/home/hp/.nuget/packages/",
-        "outputPath": "/home/hp/cuttingStockProblem/obj/",
+        "outputPath": "/mnt/01D7A6D24541C480/programming/c#/cuttingStockProblem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hp/.nuget/NuGet/NuGet.Config"
